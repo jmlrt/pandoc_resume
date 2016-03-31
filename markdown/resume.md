@@ -1,178 +1,175 @@
-Julien MAILLERET
-================
+% Julien MAILLERET
 
 ----
 
->  **Ingénieur Système UNIX & Middleware**\
->  *10 ans d\'expérience sur les systèmes UNIX*
+>  **Sysadmin / Devops**
+>  \
+>  *Working with UNIX systems since a decade*
 
 ----
 
-Expérience Professionnelle
---------------------------
+Corporate Experience
+--------------------
 
-Depuis 2013
-:   **Ingénieur Middleware**, AXA Technology Services, La Défense (92)
+Since 2015
+:   **Lead Devops** *at [Weekendesk](http://www.Weekendesk.fr)* (Paris, France)
 
-    * Mettre en place la plateforme technique AXA Banque [Soon](http://soon.fr/) (technologies : Tomcat, MongoDB, MySQL, Chef & Git)
+Lead the production team. Manage the infrastructure evolutions. Automate the build and deployment process. Optimize infrastructure, applications and databases performances. Define management process (change/incidents management). Work with development teams, QA team and hosting provider (outsourced).
 
-    * Migrer la plateforme WebSphere MQ AXA Banque en WMQ 7.5 multi-instance
+**Environment:**
 
-    * Industrialiser et automatiser le déploiement de socles applicatifs sous Linux
+*Cloud (AWS, Docker), Web (Apache, Tomcat), Databases SQL & NoSQL (PostgreSQL, MongoDB), CI (Jenkins, Maven), Java, Scrum methodology*
 
-    * Mettre en place le monitoring (Centreon) et les sauvegardes (TSM+TWS) des serveurs applicatifs
+**Key Contributions:**
 
-    * Maintenir en conditions opérationnelles 24/7 les serveurs et applications métiers critiques
+* *Migrated Weekendesk servers infrastructure from on-prems hosted servers to AWS cloud*
+* *Implemented Docker for CI/CD (Jenkins master/slaves, Sonar, Nexus, QA)*
 
-    * Administrer les bases de données MongoDB (2 Shards, 4 Replica Sets, 3 Standalone, MMS OnPrem)
+2013-2015
+:   **Middleware Engineer** *at AXA Technology Services* (Paris, France)
 
-    * Administrer le parc de serveurs Unix (150 serveurs Red Hat Linux et 50 serveurs AIX)
+*Worked for [AXA Banque](http://www.axabanque.fr)*
 
-    * Administrer les plateformes Tomcat (25 serveurs) et WebSphere (37 WAS ND & 13 WebSphere ESB)
+Managed Unix servers evolutions (150 Linux, 50 AIX), Tomcat/WebSphere applications installation & day-to-day administration. Improved monitoring, backup and deployment of servers and application. Contributed to production incidents resolution and 24/7 on call support. Lead for technical projects (<40 man days)
 
-    * Piloter les projets techniques (< 40 j/h)
+**Environment:**
 
-    * Mettre en oeuvre les améliorations continues dans le cadre du Lean Management
+*Unix (AIX, Red Hat Linux), WebSphere Middlewares (WAS, ESB, WMQ), Web (Apache, Tomcat), NoSQL (MongoDB), ITIL & Lean methodologies*
+
+**Key Contributions:**
+
+* *Installed AXA Banque [Soon](https://www.soon.fr) infrastructure (Tomcat, MongoDB, MySQL, Chef & Git)*
+* *Migrated AXA Banque WebSphereMQ platform (upgrade version, architecture consolidation & HA)*
 
 2008-2013
-:   **Ingénieur Système UNIX / WebSphere**, AXA Technology Services, La Défense (92)
+:   **Unix System Engineer** *at AXA Technology Services* (Paris, France)
 
-    * Administrer le parc de serveurs Unix (120 serveurs Red Hat Linux et 60 serveurs AIX)
+*Worked for [AXA Assistance](http://www.axa-assistance.fr), [AXA Banque](http://www.axabanque.fr) & [Direct Assurance](http://www.direct-assurance.fr)*
 
-    * Maintenir en conditions opérationnelles 24/7 les serveurs et applications métiers critiques AXA Banque, AXA Assistance et Direct Assurance
+In charge of Unix servers (120 Linux, 60 AIX) and SAN systems evolutions. Automated day-to-day administration tasks. Managed troubleshooting and performances tuning, production incidents resolution, installation and day-to-day administration tasks for Unix servers and applications. Contributed to 24/7 on call support. Lead for technical projects (<40 man days)
 
-    * Mettre en place les outils d'administration, de supervision et de sauvegardes
+**Environment:**
 
-    * Industrialiser et standardiser les serveurs Linux
+*Unix (AIX, Red Hat Linux), SAN IBM, WebSphere WAS, Centreon, TSM, ITIL*
 
-    * Definir et mettre en oeuvre les politiques de patching Red Hat (RHN Satellite et Mrepo)
+**Key Contributions:**
 
-    * Administrer la plateforme de sauvegarde TSM (4 instances avec Library Manager)
-
-    * Administrer les plateformes WebSphere Application Server ND et ESB
-
-    * Administrer les applications métiers bancaires
-
-    * Piloter les projets techniques (< 40 j/h)
+* *Implemented servers administration tools and process to scale servers infrastructure up to 180 servers: installation management, users management, applications deployment (Apache, Tomcat, WebSphere)*
+* *Implemented monitoring (Centreon), backup (TSM) and patching (RHN) solutions*
 
 2007-2008
-:   **Administrateur Système UNIX** (alternance), AXA Technology Services, La Défense (92)
+:   **System Administrator Apprentice** *at AXA Technology Services* (Paris, France)
 
-    * Administrer les serveurs AIX 5.2/5.3, Red Hat Linux 5 et Solaris 9
+*Worked for [AXA Banque](http://www.axabanque.fr)*
 
-    * Administrer la plateforme WebSphere Application Server ND 6.0.2
+* Unix server administration (AIX, Solaris & Red Hat)
+* Websphere Application Server ND administration
+* Business applications management (UNIX & Windows)
+* Scripting & Monitoring
 
-    * Administrer les applications métiers bancaires (Windows / UNIX)
+**Key Contribution:**
+
+*Participated to AXA Banque website migration (insourcing hosting infrastructure and CMS version migration)*
 
 2004-2007
-:   **Administrateur Système/Réseaux** (en alternance), AXA Banque, Levallois-Perret (92)
+:   **Network & System Administrator Apprentice** *at [AXA Banque](https://www.axabanque.fr)* (Paris, France)
 
-    * Administrer les serveurs AIX 5.2 et Solaris 9
+* Unix system administration (AIX & Solaris)
+* Business application management (Unix & Windows)
+* Network (Cisco) & Firewall management (Checkpoint)
+* Scripting & Monitoring
 
-    * Administrer les applications métiers bancaires (Windows / UNIX)
+**Key Contributions:**
 
-    * Administrer les équipements réseaux CISCO et Firewall Checkpoint
+*Participated to AXA Banque Extranets & Firewall consolidations project*
 
-Formations Professionnelles
----------------------------
-
-2015
-:    *WebSphere Enterprise Service Bus V7 Administration*, PLB Formation
-
-2014 
-:    *Gestion du Temps*, Docendi
- 
-2014
-:    *WebSphere Application Server 8.5 Administration*, IB Formation
-
-2013
-:    *Administration MongoDB*, Xebia France
-
-2013
-:    *Administration rWeb*, Deny All France
-
-2013
-:    *WebSphere MQ Administration plateformes distribuées V7*, IBM France
-
-2011
-:    *Red Hat Certified Engineer (RHCE)*, Red Hat France
-
-2011
-:    *Red Hat Certified System Administrator (RHCT/RHCSA)*, Red Hat France
-
-2011
-:    *Red Hat System Administration III*, Red Hat France
-
-2010
-:    *IBM Tivoli Storage Manager 5.5 Administration avancée*, IBM France
-
-2010
-:    *Red Hat Enterprise System Monitoring and Performance Tuning*, Red Hat France
-
-2008
-:    *IBM Tivoli Storage Manager 5.5 Mise en oeuvre et administration*, IBM France
-
-2008
-:    *Red Hat Linux System Administration*, Red Hat France
-
-Formation scolaire
-------------------
-
-2007-2008
-:    *Master Informatique Réseaux et Telecoms M2IRT (option Management du SI)*, ITIN Cergy (95)
- 
-2005-2007
-:    *Chargé de Projet Informatique (option Administration des Systèmes et Applications)*, ITIN Cergy (95)
-
-2003-2005
-:    *BTS Informatique de Gestion (option Administration de réseaux locaux d\'entreprise)*, ISIMI Paris (75)
-
-Domaines de compétences
------------------------
-
-Administration Système UNIX
-:    **OS Linux**: Red Hat, CentOS, Debian & Ubuntu
-
-:    **Provisioning Linux**: Chef, Kickstart, RPM & RHN
-
-:    **Virtualisation**: Xen, KVM, VirtualBox & Vagrant
-
-:    **Sauvegardes**: Tivoli Storage Management
-
-:    **Scripting**: Shell, Sed & Awk / Notions de Perl, Python, Ruby & PHP
-
-:    **OS AIX**: System P, Partitionnement, LPARS, WPARS, MKSYSB, HMC & NIM
-
-Middlewares & Applications
-:    **Architecture**: Rest, SOA, MOM
-
-:    **Middlewares**: WebSphere Application Server, WebSphere ESB & WebSphere MQ
-
-:    **Applications**: Apache, Nginx, Tomcat, Redis, Postfix, Samba, Bind & Squid
-
-:    **Base de données**: MySQL, MongoDB & SQLite
-
-:    **Monitoring**: Nagios & Centreon
-
-:    **Versionning**: Git
-
-Conduite de projets
-:    Conduite de projets techniques (< 40 j/h)
-
-:    Méthodologie Lean (A3)
-
-:    Méthodologie ITIL
-
-:    Anglais (BULATS 2010: B2 Upper Intermediate / TOEIC 2006: 830)
-
-Loisirs
+Courses
 -------
 
-* Veille Technologique: Unix, Open Source, Cloud, DevOps
+2015
+:    WebSphere Enterprise Service Bus V7 Administration *at PLB Formation* (Paris, France)
 
-* Plongée sous-marine: préparation du N3 FFESSM en club
+2014
+:    WebSphere Application Server 8.5 Administration *at IB Formation* (Paris, France)
+
+2013
+:    MongoDB Administration *at Xebia* (Paris, France)
+
+2013
+:    WebSphere MQ Administration V7 *at IBM* (Paris, France)
+
+2011
+:    Red Hat Certified Engineer *at Red Hat* (Paris, France)
+
+2011
+:    Red Hat Certified System Administrator RHCT/RHCSA *at Red Hat* (Paris, France)
+
+2010
+:    IBM Tivoli Storage Manager 5.5 Advanced Administration *at IBM* (Paris, France)
+
+2010
+:    Red Hat Enterprise System Monitoring and Performance Tuning *at Red Hat* (Paris, France)
+
+2008
+:    IBM Tivoli Storage Manager 5.5 Administration *at IBM* (Paris, France)
+
+Education
+---------
+
+2007-2008
+:    **M2IRT Master 2** Information System Management *at ITIN-ESCIA* (Cergy, France)
+
+
+2006-2007
+:    **M2IRT Master 1** Systems & Applications Administration *at ITIN-ESCIA* (Cergy, France)
+
+2005-2006
+:    **M2IRT L3** Systems & Applications Administration *at ITIN-ESCIA* (Cergy, France)
+
+2003-2005
+:    **BTS IT Management** Network Administration *at ISIMI* (Paris, France)
+
+Skills
+------
+
+Sysadmin
+:    Linux & AIX Administration*****
+
+:    Troubleshooting & Performance Tuning****
+
+:    Provisioning & Configuration Management: Chef\*\*, Ansible\*
+
+:    Cloud Computing: AWS\*\*\*, Docker\*\*\*
+
+:    Scripting: Bash*****, Python\*\*
+
+:    Monitoring: Centreon\*\*\*
+
+Web
+:    Servers: Apache\*\*\*, Nginx\*\*, Tomcat\*\*\*
+
+:    Architecture: Load Balancing\*\*\*, CDN\*, SSL\*\*, DNS\*\*\*
+
+Middlewares
+:    Databases Administration: PostgreSQL\*\*, MySQL\*, MongoDB\*\*\*
+
+:    IBM WebSphere: WAS\*\*·\*, WebSphere ESB\*\* & WebSphere MQ\*\*\*
+
+Integration
+:    CI/CD: Jenkins\*\*\*, Maven\*
+
+:    Versionning: Git\*\*\*
+
+Others
+:    English (BULATS 2010: B2 Upper Intermediate / TOEIC 2006: 830)
+
+Activities & interests
+-----------------------
+
+**Sport**
+:    Diving (CMAS 3*) & Climbing
 
 ----
 
-> <http://julien.mailleret.fr>\
-> <jmlrt-job@mailleret.fr>
+> <https://julien.mailleret.fr>\
+> <job@mailleret.fr>
