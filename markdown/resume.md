@@ -38,7 +38,7 @@ Managed Unix servers evolutions (150 Linux, 50 AIX), Tomcat/WebSphere applicatio
 
 **Key Contributions:**
 
-* *Installed AXA Banque [Soon](https://www.soon.fr) infrastructure (Tomcat, MongoDB, MySQL, Chef & Git)*
+* *Implemented AXA Banque [Soon](https://www.soon.fr) infrastructure (Tomcat, MongoDB, MySQL, Chef & Git)*
 * *Migrated AXA Banque WebSphereMQ platform (upgrade version, architecture consolidation & HA)*
 
 2008-2013
@@ -62,26 +62,12 @@ In charge of Unix servers (120 Linux, 60 AIX) and SAN systems evolutions. Automa
 
 *Worked for [AXA Banque](http://www.axabanque.fr)*
 
-* Unix server administration (AIX, Solaris & Red Hat)
-* Websphere Application Server ND administration
-* Business applications management (UNIX & Windows)
-* Scripting & Monitoring
-
-**Key Contribution:**
-
-*Participated to AXA Banque website migration (insourcing hosting infrastructure and CMS version migration)*
+Managed Unix servers (AIX, Solaris & Red Hat). Involved in AXA Banque applications day-to-day administration. Participated to AXA Banque website migration (insourcing hosting infrastructure and CMS version migration)
 
 2004-2007
 :   **Network & System Administrator Apprentice** *at [AXA Banque](https://www.axabanque.fr)* (Paris, France)
 
-* Unix system administration (AIX & Solaris)
-* Business application management (Unix & Windows)
-* Network (Cisco) & Firewall management (Checkpoint)
-* Scripting & Monitoring
-
-**Key Contributions:**
-
-*Participated to AXA Banque Extranets & Firewall consolidations project*
+Managed Unix servers (AIX, Solaris), Network (Cisco) & Firewall (Checkpoint). Involved in AXA Banque applications day-to-day administration. Participated to AXA Banque Extranets & Firewall consolidations project
 
 Courses
 -------
@@ -171,5 +157,8 @@ Activities & interests
 
 ----
 
+> <job@mailleret.fr>\
+>\
 > <https://julien.mailleret.fr>\
-> <job@mailleret.fr>
+> <https://github.com/jmlrt>\
+> <https://www.linkedin.com/in/julienmailleret>
