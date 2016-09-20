@@ -18,12 +18,13 @@ Lead the production team. Manage the infrastructure evolutions. Automate the bui
 
 **Environment:**
 
-*Cloud (AWS, Docker), Web (Apache, Tomcat), Databases SQL & NoSQL (PostgreSQL, MongoDB), CI (Jenkins, Maven), Java, Scrum methodology*
+*Cloud (AWS, Docker), Web (Apache, Tomcat), Databases SQL & NoSQL (PostgreSQL, MongoDB), CI (Jenkins, Maven), Java, Python, Scrum methodology*
 
 **Key Contributions:**
 
 * *Migrated Weekendesk servers infrastructure from on-prems hosted servers to AWS cloud*
 * *Implemented Docker for CI/CD (Jenkins master/slaves, Sonar, Nexus, QA)*
+* *Improved Weekendesk infrastructure to handle TV campaign traffic spikes (Load Testing, Applications Tuning, AutoScaling and Dynamic Cache for API)*
 
 2013-2015
 :   **Middleware Engineer** *at AXA Technology Services* (Paris, France)
@@ -119,27 +120,29 @@ Skills
 ------
 
 Sysadmin
-:    Linux & AIX Administration*****
+:    Linux & AIX Administration\*\*\*\*\*
 
-:    Troubleshooting & Performance Tuning****
+:    Troubleshooting & Performance Tuning\*\**\*
 
-:    Provisioning & Configuration Management: Chef\*\*, Ansible\*
+:    Provisioning & Configuration Management: Ansible\*\*\*, Chef\*\*, Fabric \*\*, CloudFormation\*\*, Packer\*
 
 :    Cloud Computing: AWS\*\*\*, Docker\*\*\*
 
-:    Scripting: Bash*****, Python\*\*
+:    Scripting: Bash\*\*\*\*\*, Python\*\*\*
 
-:    Monitoring: Centreon\*\*\*
+:    Monitoring: Centreon\*\*\*, Zabbix\*\*
 
 Web
 :    Servers: Apache\*\*\*, Nginx\*\*, Tomcat\*\*\*
 
-:    Architecture: Load Balancing\*\*\*, CDN\*, SSL\*\*, DNS\*\*\*
+:    Architecture: Load Balancing\*\*\*, CDN\*, SSL\*\*, DNS\*\*\*, AutoScaling Groups\*\*
+
+:    Load Testing: Gatling\*\*
 
 Middlewares
 :    Databases Administration: PostgreSQL\*\*, MySQL\*, MongoDB\*\*\*
 
-:    IBM WebSphere: WAS\*\*·\*, WebSphere ESB\*\* & WebSphere MQ\*\*\*
+:    IBM WebSphere: WAS\*\*\*, WebSphere ESB\*\* & WebSphere MQ\*\*\*
 
 Integration
 :    CI/CD: Jenkins\*\*\*, Maven\*
