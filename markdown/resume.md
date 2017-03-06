@@ -14,17 +14,19 @@ Corporate Experience
 Since 2015
 :   **Lead Devops** *at [Weekendesk](http://www.Weekendesk.fr)* (Paris, France)
 
-Lead the production team. Manage the infrastructure evolutions. Automate the build and deployment process. Optimize infrastructure, applications and databases performances. Define management process (change/incidents management). Work with development teams, QA team and hosting provider (outsourced).
+Lead the production team. Manage the infrastructure evolutions. Automate the build and deployment process. Optimize infrastructure, applications and databases performances. Define management process (change/incidents/duty management). Work with development teams & QA team.
 
 **Environment:**
 
-*Cloud (AWS, Docker), Web (Apache, Tomcat), Databases SQL & NoSQL (PostgreSQL, MongoDB), CI (Jenkins, Maven), Java, Python, Scrum methodology*
+*Cloud (AWS, Docker), Web (Apache, Tomcat, HAproxy), Provisioning (Ansible, Packer, Terraform), Databases SQL & NoSQL (PostgreSQL, MongoDB, ElasticSearch), CI (Jenkins, Maven), Java, Python, Scrum methodology*
 
 **Key Contributions:**
 
 * *Migrated Weekendesk servers infrastructure from on-prems hosted servers to AWS cloud*
 * *Implemented Docker for CI/CD (Jenkins master/slaves, Sonar, Nexus, QA)*
-* *Improved Weekendesk infrastructure to handle TV campaign traffic spikes (Load Testing, Applications Tuning, AutoScaling and Dynamic Cache for API)*
+* *Improved Weekendesk infrastructure to handle TV campaign traffic spikes (Load Testing, Applications Tuning, AutoScaling and API Caching using CDN)*
+* *Developed a customized deployment tool based on Python, Fabric, Jinja2 and Boto3*
+* *Internalized infrastructure hosting management and set up 24/7 on call duty process with developers on call*
 
 2013-2015
 :   **Middleware Engineer** *at AXA Technology Services* (Paris, France)
@@ -72,6 +74,9 @@ Managed Unix servers (AIX, Solaris), Network (Cisco) & Firewall (Checkpoint). In
 
 Courses
 -------
+
+2017
+:   Core ElasticSearch Operations *at Elastic* (Paris, France)
 
 2015
 :    WebSphere Enterprise Service Bus V7 Administration *at PLB Formation* (Paris, France)
@@ -122,25 +127,25 @@ Skills
 Sysadmin
 :    Linux & AIX Administration\*\*\*\*\*
 
-:    Troubleshooting & Performance Tuning\*\**\*
+:    Troubleshooting & Performance Tuning\*\*\*\*
 
-:    Provisioning & Configuration Management: Ansible\*\*\*, Chef\*\*, Fabric \*\*, CloudFormation\*\*, Packer\*
+:    Provisioning & Configuration Management: Ansible\*\*\*, Fabric \*\*, Terraform\*\*, Packer\*\*, CloudFormation\*\*, Chef\*
 
 :    Cloud Computing: AWS\*\*\*, Docker\*\*\*
 
 :    Scripting: Bash\*\*\*\*\*, Python\*\*\*
 
-:    Monitoring: Centreon\*\*\*, Zabbix\*\*
+:    Monitoring: Zabbix\*\*\*, Centreon\*\*\*
 
 Web
-:    Servers: Apache\*\*\*, Nginx\*\*, Tomcat\*\*\*
+:    Servers: Apache\*\*\*, Tomcat\*\*\*, Nginx\*\*, HAproxy\*\*
 
 :    Architecture: Load Balancing\*\*\*, CDN\*, SSL\*\*, DNS\*\*\*, AutoScaling Groups\*\*
 
-:    Load Testing: Gatling\*\*
+:    Load Testing: Gatling\*\*, Jmeter\*
 
 Middlewares
-:    Databases Administration: PostgreSQL\*\*, MySQL\*, MongoDB\*\*\*
+:    Databases Administration: PostgreSQL\*\*, MongoDB\*\*\*, MySQL\*, ElasticSearch\*
 
 :    IBM WebSphere: WAS\*\*\*, WebSphere ESB\*\* & WebSphere MQ\*\*\*
 
@@ -149,8 +154,12 @@ Integration
 
 :    Versionning: Git\*\*\*
 
-Others
-:    English (BULATS 2010: B2 Upper Intermediate / TOEIC 2006: 830)
+English
+:    Oxford Test 2016: B2 Intermediate
+
+:    BULATS 2010: B2 Upper Intermediate
+
+:    TOEIC 2006: 830
 
 Activities & interests
 -----------------------
