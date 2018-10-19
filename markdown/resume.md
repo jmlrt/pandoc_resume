@@ -12,11 +12,11 @@ Since 2017
 
 Devops owner for two development teams (Data Stewardship & Data Catalog)
 
-Automate applications stacks build and deployment. Integrate microservices with Talend Cloud platform. Apply infrastructure design patterns to match Talend production criteria (twelve-factor app, microservices, multi-tenant, multi-region, SOC2 compliance...). Define cloud-related optimizations to improve reliability and performance. Share devops and cloud best practices with developers. Build Talend Kubernetes platform using Kubespray, Ansible & Terraform
+Automate applications stacks build and deployment. Integrate microservices with Talend Cloud platform. Apply infrastructure design patterns to match Talend production criteria (twelve-factor app, microservices, multi-tenant, multi-region, security compliance...). Define cloud-related optimizations to improve reliability and performance. Share devops and cloud best practices with developers. Build Talend Kubernetes platform using Kubespray, Ansible & Terraform
 
 **Environment:**
 
-*Cloud (AWS, Docker, Kubernetes), Infrastructure As Code (Terraform, Ansible, Puppet, Cloudformation, Troposphere), Scripting (Python, Bash), Databases & Middlewares (PostgreSQL, MongoDB, ElasticSearch, Redis, Kafka), CI/CD (Jenkins, Maven), Microservices (Scala, Java), Observability (Datadog, ELK, Prometheus, Zipkin), Scrum methodology*
+*Cloud (AWS, Docker, Kubernetes), Infrastructure As Code (Terraform, Ansible, Puppet, Cloudformation), Scripting (Python, Bash), Databases & Middlewares (PostgreSQL, MongoDB, ElasticSearch, Redis, Kafka), CI/CD (Jenkins, Maven), Microservices (Java), Observability (ELK, Prometheus, Zipkin), Scrum methodology*
 
 2015-2017
 :   **Lead Devops** *at [Weekendesk](https://www.Weekendesk.fr)* (Paris, France)
@@ -48,7 +48,7 @@ Managed Unix servers evolutions (150 Linux, 50 AIX), Tomcat/WebSphere applicatio
 
 **Key Contributions:**
 
-* *Implemented AXA Banque [Soon](https://www.soon.fr) infrastructure (Tomcat, MongoDB, MySQL, Chef & Git)*
+* *Implemented AXA Banque Soon infrastructure (Tomcat, MongoDB, MySQL, Chef & Git)*
 * *Migrated AXA Banque WebSphereMQ platform (upgrade version, architecture consolidation & HA)*
 
 2008-2013
