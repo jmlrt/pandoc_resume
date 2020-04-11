@@ -1,22 +1,35 @@
 % Julien MAILLERET
 
->  *Site Reliability Engineer at Talend*
+>  *Site Reliability Engineer at Elastic*
 
 ---
 
 Corporate Experience
 --------------------
 
-Since 2017
-:   **Site Reliability Engineer** *at [Talend](https://www.talend.com)* (Nantes, France)
+Since 2019
+:   **Sr. Site Reliability Engineer** *at [Elastic](https://www.elastic.co)* (Nantes, France)
 
-Devops owner for two development teams (Data Stewardship & Data Catalog)
-
-Automate applications stacks build and deployment. Integrate microservices with Talend Cloud platform. Apply infrastructure design patterns to match Talend production criteria (twelve-factor app, microservices, multi-tenant, multi-region, security compliance...). Define cloud-related optimizations to improve reliability and performance. Share devops and cloud best practices with developers. Build Talend Kubernetes platform using Kubespray, Ansible & Terraform
+Maintainer of Elastic public Helm charts and Ansible roles. Automates Elastic releases using Gradle DSL and Tekton Pipelines. Build images for CI workers using Packer and Ansible. Contribute to CI and infrastructure operations.
 
 **Environment:**
 
-*Cloud (AWS, Docker, Kubernetes), Infrastructure As Code (Terraform, Ansible, Puppet, Cloudformation), Scripting (Python, Bash), Databases & Middlewares (PostgreSQL, MongoDB, ElasticSearch, Redis, Kafka), CI/CD (Jenkins, Maven), Microservices (Java), Observability (ELK, Prometheus, Zipkin), Scrum methodology*
+*Cloud (GCP, AWS), K8S (GKE, Helm), Infrastructure As Code (Terraform, Packer, Ansible), Scripting (Python, Groovy, Bash), Elastic Stack (ElasticSearch, Logstash, Kibana, Beats, APM), CI/CD (Jenkins, Tekton Pipelines), Secret Management (Hashicorp Vault)*
+
+2017-2019
+:   **Site Reliability Engineer** *at [Talend](https://www.talend.com)* (Nantes, France)
+
+Manage Talend Cloud infrastructure. Automate applications stacks build and deployment. Integrate microservices with Talend Cloud platform. Apply infrastructure design patterns to match Talend production criteria (twelve-factor app, microservices, multi-tenant, multi-region, security compliance...). Define cloud-related optimizations to improve reliability and performance. Share devops and cloud best practices with developers.
+
+**Environment:**
+
+*Cloud (AWS, Azure, Docker, Kubernetes), Infrastructure As Code (Terraform, Ansible, Puppet, CloudFormation), Scripting (Python, Bash), Databases & Middlewares (PostgreSQL, MongoDB, ElasticSearch, Redis, Kafka), CI/CD (Jenkins, Maven), Microservices (Java), Observability (ELK, Prometheus, Zipkin), Scrum methodology*
+
+**Key Contributions:**
+
+* *Deployed [Talend Data Stewardship](https://www.talend.com/products/data-stewardship/) and Talend Data Catalog to Talend Cloud*
+* *Built Talend Kubernetes platform using Kubespray, Ansible & Terraform then AWS EKS*
+* *Contributed to Talend Cloud on Azure infrastructure setup*
 
 2015-2017
 :   **Lead Devops** *at [Weekendesk](https://www.Weekendesk.fr)* (Paris, France)
@@ -95,21 +108,21 @@ Education
 Skills
 ------
 
-**Cloud Computing & Containers:** AWS\*\*\*, Docker\*\*\*, ECS\*\*, Kubernetes\*\*
+**Cloud Computing & Containers:** AWS\*\*\*, GCP\*\*, Azure\*, Kubernetes\*\*\*, Helm\*\*, Docker\*\*\*, ECS\*\*
 
-**Infrastructure As Code:** Ansible\*\*\*, Terraform\*\*\*, Packer\*\*, CloudFormation\*\*, Puppet\*
+**Infrastructure As Code:** Ansible\*\*\*, Terraform\*\*\*, Packer\*\*, CloudFormation\*\*
 
 **UNIX Administration:** Linux\*\*\*, AIX\*\*
 
-**CI/CD & Testing:** Jenkins\*\*\*, Maven\*, Git\*\*, Gatling\*\*
+**CI/CD & Testing:** Jenkins\*\*\*, Tekton\*\*, Gradle\*, Maven\*, Git\*\*, Gatling\*\*
 
-**Observability:** ELK\*, Prometheus\*, Zipkin\*, Zabbix\*\*, Centreon\*\*
+**Observability:** Elastic Stack\*\*, Prometheus\*, Zipkin\*, Zabbix\*\*, Centreon\*\*
 
-**Scripting:** Bash\*\*\*, Python\*\*
+**Scripting:** Bash\*\*\*, Python\*\*; Groovy\*
 
-**Web & App Servers:** Apache\*\*\*, Tomcat\*\*\*, Nginx\*\*\*, HAproxy\*\*\*
+**Web & App Servers:** Apache\*\*\*, Tomcat\*\*\*, Nginx\*\*\*, HAproxy\*\*
 
-**Databases & Middlewares:** PostgreSQL\*\*, MongoDB\*\*\*, MySQL\*, ElasticSearch\*, Redis\*, Kafka\*
+**Databases & Middlewares:** PostgreSQL\*\*, MongoDB\*\*, MySQL\*, ElasticSearch\*\*, Redis\*, Kafka\*
 
 **Architecture:** Load Balancing\*\*\*, CDN\*, SSL\*\*, DNS\*\*\*, AutoScaling Groups\*\*
 
